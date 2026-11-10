@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1F1B19"/><stop offset="1" stop-color="#0C0B0A"/></linearGradient>
+    <linearGradient id="ember" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#FFB23F"/><stop offset=".55" stop-color="#FF7A3D"/><stop offset="1" stop-color="#FF5A2E"/></linearGradient>
+    <radialGradient id="glow" cx=".42" cy=".55" r=".55"><stop offset="0" stop-color="#FF6A3D" stop-opacity=".38"/><stop offset="1" stop-color="#FF6A3D" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <rect width="1024" height="1024" fill="url(#glow)"/>
+  <g fill="url(#ember)" transform="translate(512 512) scale(1.14) translate(-546 -497)">
+    <!-- stem -->
+    <rect x="300" y="218" width="132" height="588" rx="30"/>
+    <!-- top bar + plates -->
+    <rect x="380" y="242" width="300" height="84" rx="20"/>
+    <rect x="652" y="188" width="74" height="192" rx="26"/>
+    <rect x="744" y="222" width="48" height="124" rx="20"/>
+    <!-- middle bar + plates -->
+    <rect x="380" y="470" width="196" height="80" rx="20"/>
+    <rect x="552" y="420" width="70" height="180" rx="24"/>
+    <rect x="638" y="452" width="44" height="116" rx="18"/>
+  </g>
+</svg>
