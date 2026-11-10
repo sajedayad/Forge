@@ -6,7 +6,7 @@ A mobile-first training and nutrition tracker, built for one specific plan: thre
 
 I was about to pay around $30 a month for two apps, one for workouts and one for food. Instead I built one app that does both and is shaped around exactly how I train and eat.
 
-**Live demo:** https://[YOUR-USERNAME].github.io/forge/ (open it on your phone and add it to your home screen: it opens full screen with its own icon, like a real app)
+**Live demo:** https://sajedayad.github.io/Forge/ (open it on your phone and add it to your home screen: it opens full screen with its own icon, like a real app)
 
 <p>
   <img src="screenshots/today.png" width="200" alt="Today screen with calorie and protein rings">
